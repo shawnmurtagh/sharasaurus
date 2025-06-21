@@ -13,15 +13,20 @@
   },
   "dependencies": {
     "@capacitor/app": "7.0.1",
+    "@capacitor/camera": "^7.0.1",
     "@capacitor/core": "7.3.0",
+    "@capacitor/filesystem": "^7.1.1",
     "@capacitor/haptics": "7.0.1",
     "@capacitor/keyboard": "7.0.1",
+    "@capacitor/preferences": "^7.0.1",
     "@capacitor/status-bar": "7.0.1",
-    "@ionic/vue": "^8.0.0",
-    "@ionic/vue-router": "^8.0.0",
-    "ionicons": "^7.0.0",
-    "vue": "^3.3.0",
-    "vue-router": "^4.2.0"
+    "@ionic/core": "^8.6.2",
+    "@ionic/pwa-elements": "^3.3.0",
+    "@ionic/vue": "^8.6.2",
+    "@ionic/vue-router": "^8.6.2",
+    "ionicons": "^8.0.9",
+    "vue": "^3.0.6",
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@capacitor/cli": "7.3.0",
