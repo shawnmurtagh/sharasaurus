@@ -1,0 +1,7 @@
+{
+  "name": "sharasaurus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
